@@ -1,11 +1,18 @@
-<div align="center">
+# LogiTrack
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+LogiTrack is a real-time delivery tracking system built with modern Android development practices, featuring offline-caching, location updates, and seamless synchronization.
 
-  <h1>Built with AI Studio</h2>
+# Features
+- Real-time Location Tracking
+- Offline Data Caching
+- Sync-on-Reconnect
+- Secure Environment Configuration
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+# Screenshots
+![App Screenshot](app/src/test/screenshots/greeting.png)
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
 
-</div>
+
+
+
+

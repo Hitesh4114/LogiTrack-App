@@ -1,0 +1,6 @@
+{
+  "name": "LogiTrack",
+  "description": "LogiTrack: A real-time delivery tracking system with offline-caching, location updates, and sync-on-reconnect.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
